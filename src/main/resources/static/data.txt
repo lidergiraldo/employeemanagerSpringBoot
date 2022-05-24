@@ -1,0 +1,7 @@
+{
+    "email": "lidermangiraldo@hotmail.com",
+    "imageUrl": "https://www.bootdey.com/app/webroot/img/Content/avatar/avatar1.png",
+    "jobTitle":  "Frontend",
+    "name": "Liderman Giraldo",
+    "phone": "3153914072"
+}
